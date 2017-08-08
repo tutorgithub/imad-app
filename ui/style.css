@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
-    background-color: yellow;
-    margin-top: 75px;
+    background-color: white;
+    margin-top: 100px;
 }
 
 .center {
@@ -13,7 +13,7 @@ body {
 }
 
 .bold {
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 .img-medium {
